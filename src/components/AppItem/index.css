@@ -1,0 +1,58 @@
+.editable-container {
+  background-color: #f5d0fe;
+  height: 100vh;
+  padding: 15px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.editable-input-container {
+  background-color: #fff;
+  height: 230px;
+  width: 500px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.editable-title {
+  font-family: 'Roboto';
+  font-size: 30px;
+}
+.input-element {
+  height: 40px;
+  width: 200px;
+  outline: none;
+  border: 1px solid #cbd2d9;
+  border-radius: 5px;
+  color: #323f4b;
+  font-size: 15px;
+}
+.input-button {
+  height: 40px;
+  width: 60px;
+  border: none;
+  outline: none;
+  background-color: #d946ef;
+  color: #fff;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.input-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  width: 60%;
+}
+.input-text-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  width: 60%;
+}
+
+
